@@ -1,6 +1,6 @@
 # NewConn
 
-VB6 working copy of `NewConn` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: NewConn.
+VB6 RAS helper (`NewConn`) that creates/updates a phonebook entry (`MyConnection`) via `VBRasSetEntryProperties` with modem lights, network logon, and preview dialing options on Form_Load. Open `NewConn.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
